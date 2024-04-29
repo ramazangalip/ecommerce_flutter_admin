@@ -1,0 +1,4 @@
+#Mon Apr 15 14:09:53 TRT 2024
+base.0=C\:\\Users\\seyfu\\Desktop\\ecommerce_flutter_admin\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

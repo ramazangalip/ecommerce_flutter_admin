@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-0 C:\Users\seyfu\.gradle\caches\transforms-3\1ed45bb064eaf3ed8b35a002ca35474f\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-1 C:\Users\seyfu\.gradle\caches\transforms-3\54e8f87e6501a4330dd385c97f9db7e1\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-2 C:\Users\seyfu\.gradle\caches\transforms-3\671d4fdeadea2c156417aa4aee5108ca\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-3 C:\Users\seyfu\.gradle\caches\transforms-3\80a7d572c23387f96e266b12c26b8959\transformed\core-1.6.0\res
+com.tekartik.sqflite-main-4 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\sqflite\intermediates\merged_res\release

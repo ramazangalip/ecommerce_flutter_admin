@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-0 C:\Users\seyfu\.gradle\caches\transforms-3\1ed45bb064eaf3ed8b35a002ca35474f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-1 C:\Users\seyfu\.gradle\caches\transforms-3\54e8f87e6501a4330dd385c97f9db7e1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-2 C:\Users\seyfu\.gradle\caches\transforms-3\597f83722257cc1b2c2ed6fe230991be\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-3 C:\Users\seyfu\.gradle\caches\transforms-3\671d4fdeadea2c156417aa4aee5108ca\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-4 C:\Users\seyfu\.gradle\caches\transforms-3\80a7d572c23387f96e266b12c26b8959\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.4.2-5 C:\Users\seyfu\.gradle\caches\transforms-3\a5f47a753550e71faa78e6daf8c93ae9\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-6 C:\Users\seyfu\.gradle\caches\transforms-3\bb9043d34ee734fe98f65c2473e15923\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.15.9\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.15.9\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\intermediates\packaged_res\release

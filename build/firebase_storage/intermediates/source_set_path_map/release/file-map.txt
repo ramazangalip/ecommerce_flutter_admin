@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-0 C:\Users\seyfu\.gradle\caches\transforms-3\1ed45bb064eaf3ed8b35a002ca35474f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-1 C:\Users\seyfu\.gradle\caches\transforms-3\429904f6d2cad58fe2476d198b23d9a3\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-2 C:\Users\seyfu\.gradle\caches\transforms-3\54e8f87e6501a4330dd385c97f9db7e1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-3 C:\Users\seyfu\.gradle\caches\transforms-3\671d4fdeadea2c156417aa4aee5108ca\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-4 C:\Users\seyfu\.gradle\caches\transforms-3\80a7d572c23387f96e266b12c26b8959\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-5 C:\Users\seyfu\.gradle\caches\transforms-3\a5f47a753550e71faa78e6daf8c93ae9\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-6 C:\Users\seyfu\.gradle\caches\transforms-3\c726933593d3ad32b3e465c65e4e006b\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.10\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.10\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_storage\intermediates\merged_res\release

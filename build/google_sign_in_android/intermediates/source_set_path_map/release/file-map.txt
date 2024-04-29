@@ -1,0 +1,15 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-0 C:\Users\seyfu\.gradle\caches\transforms-3\1ed45bb064eaf3ed8b35a002ca35474f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-20.7.0-1 C:\Users\seyfu\.gradle\caches\transforms-3\346ef8fd44babbb3fc459a4840709fdf\transformed\jetified-play-services-auth-20.7.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-2 C:\Users\seyfu\.gradle\caches\transforms-3\54e8f87e6501a4330dd385c97f9db7e1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-3 C:\Users\seyfu\.gradle\caches\transforms-3\567b0470f2543ba7e99b0bcb56a9306e\transformed\jetified-play-services-basement-18.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-4 C:\Users\seyfu\.gradle\caches\transforms-3\671d4fdeadea2c156417aa4aee5108ca\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.6.0-5 C:\Users\seyfu\.gradle\caches\transforms-3\80a7d572c23387f96e266b12c26b8959\transformed\core-1.6.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-6 C:\Users\seyfu\.gradle\caches\transforms-3\bb9043d34ee734fe98f65c2473e15923\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-7 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.21\android\src\main\res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-8 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.21\android\src\release\res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-9 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\generated\res\pngs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-10 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\generated\res\resValues\release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-11 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\generated\res\rs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-12 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-13 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-14 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\google_sign_in_android\intermediates\merged_res\release

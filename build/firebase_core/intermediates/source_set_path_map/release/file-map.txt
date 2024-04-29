@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-0 C:\Users\seyfu\.gradle\caches\transforms-3\1ed45bb064eaf3ed8b35a002ca35474f\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\seyfu\.gradle\caches\transforms-3\54e8f87e6501a4330dd385c97f9db7e1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-2 C:\Users\seyfu\.gradle\caches\transforms-3\597f83722257cc1b2c2ed6fe230991be\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-3 C:\Users\seyfu\.gradle\caches\transforms-3\671d4fdeadea2c156417aa4aee5108ca\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-4 C:\Users\seyfu\.gradle\caches\transforms-3\80a7d572c23387f96e266b12c26b8959\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-5 C:\Users\seyfu\.gradle\caches\transforms-3\a5f47a753550e71faa78e6daf8c93ae9\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.1\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\seyfu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.27.1\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\seyfu\Desktop\ecommerce_flutter_admin\build\firebase_core\intermediates\merged_res\release
